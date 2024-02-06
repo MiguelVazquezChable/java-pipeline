@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Ahora hare AWS y terraform</h1>
+    <h1>Proyecto maven listo</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
