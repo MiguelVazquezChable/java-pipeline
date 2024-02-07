@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Proyecto maven listo</h1>
+    <h1>test done</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Finalizado el dia 6 de febrero </h1>
+   <h1> Finalizado el dia 7 de febrero </h1>
 
   
 </form>
