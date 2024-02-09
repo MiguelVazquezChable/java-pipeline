@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Finalizado el dia 7 de febrero </h1>
+   <h1> Finalizado el dia 9 de febrero </h1>
 
   
 </form>
